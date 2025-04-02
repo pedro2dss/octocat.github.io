@@ -26,7 +26,7 @@ CRIAÇÃO DE SITE DA AULA DO PROFESSOR CALU
     <script src="script.js"></script>
 </body>
 
-     <img src="https://i.pinimg.com/736x/a2/b7/99/a2b799baf6daa2b32b9b45935c6635dd.jpg"
+     <img src="https://i.pinimg.com/236x/5c/1d/b4/5c1db474b0e01953c05e8517f7a47990.jpg"
 
 Olá, meu nome é Pedro Morais de Melo e estou muito animado com a oportunidade de me candidatar,Sou um desenvolvedor apaixonado por tecnologia e tenho experiência em principais tecnologias que você domina, como JavaScript, etc. Sou apaixonado por tecnologia e adoro enfrentar desafios de programação, encontrar soluções criativas e contribuir para a criação de sistemas eficientes e escaláveis.
 
