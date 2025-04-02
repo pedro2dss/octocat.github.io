@@ -20,7 +20,7 @@ CRIAÇÃO DE SITE DA AULA DO PROFESSOR CALU
     </section>
 
     <footer>
-        <p>&copy; 2025 - Criado com ♥</p>
+          <p>&copy; 2025 Minha Página Estática</p>
     </footer>
 
     <script src="script.js"></script>
